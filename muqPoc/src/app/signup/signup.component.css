@@ -1,0 +1,26 @@
+.container{
+   
+    width: 500px;
+    border: 3px solid gray;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    font-family: sans-serif; 
+    border-radius: 20px;            
+    
+     
+    
+ 
+ }
+ label{
+    text-size-adjust: 2px;
+ }
+ .form-control{
+    width: 400px;
+}
+.clearfix{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.error{
+    color: red;
+}
